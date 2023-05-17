@@ -1,4 +1,4 @@
-# javaProjectContacts
+# Java project: Contacts
 
 ![contacto1](https://github.com/jorratmf/javaProjectContacts/assets/83671274/737a63d7-f7ed-4221-a3a9-ad9181992998)
 ![contacto2](https://github.com/jorratmf/javaProjectContacts/assets/83671274/26bec64d-7f1d-4f3a-af99-1b06c6f065b4)
